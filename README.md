@@ -33,6 +33,15 @@ I'm a passionate Data Science Master's student at the University of North Texas,
 
 📫 How to reach me: You can connect with me on LinkedIn or reach out via email.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perumalla-litesh/)
+
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liteshperumalla@gmail.com)
+
+[![Resume](https://img.shields.io/badge/-Resume-007ACC?style=flat&logo=read-the-docs&logoColor=white)]()
+
+
+
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I'm a huge fan of patterns—not just in data, but in everyday life too! Whether it's spotting trends in code or figuring out the best strategies in games, I'm always on the lookout for that hidden logic.
