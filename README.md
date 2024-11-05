@@ -38,7 +38,7 @@ I'm a passionate Data Science Master's student at the University of North Texas,
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liteshperumalla@gmail.com)
 
-[![Resume](https://img.shields.io/badge/-Resume-007ACC?style=flat&logo=read-the-docs&logoColor=white)]()
+[![Resume](https://img.shields.io/badge/-Resume-007ACC?style=flat&logo=read-the-docs&logoColor=white)](https://github.com/YourUsername/resume/blob/main/resume-2024.pdf)
 
 
 
