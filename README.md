@@ -48,4 +48,4 @@ I'm a passionate Data Science Master's student at the University of North Texas,
 
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=liteshperumalla&show_icons=true&theme=radical)
