@@ -15,34 +15,34 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🔥 Recent Projects
+##  Recent Projects
 
-### 🏗️ Infra Mind – AI Powered Infrastructure Platform
-**May 2025 – Present**
+###  Infra Mind – AI Powered Infrastructure Platform
+
 • Engineered an AI driven infrastructure advisory platform with Intelligent dashboards and real–time analytics, executive summaries, automated infrastructure assessments, multi cloud strategy, vendor lock-in analysis, migration scenario modeling, approval workflow system, budget forecasting, rollback automation, security compliance monitoring and reporting capabilities.
 • Implemented sophisticated data aggregation algorithms, real-time monitoring systems, automated alert mechanisms, comprehensive audit trails, enterprise grade security measures.
 • Architected a comprehensive multi-agent system with 10+ agents and built a workflow for infrastructure provisioning, compliance monitoring.
 
-### 🤖 Smart Tutor AI
+###  Smart Tutor AI
 - **RAG system** built with LlamaIndex, Chroma, and Ollama
 - **Advanced features**: Metadata-aware chunking, evaluation frameworks, and content guardrails
 - **Tech Stack**: Python, LlamaIndex, Chroma, Ollama, Streamlit
 
-### ☁️ MCP Orchestration on GCP
+###  MCP Orchestration on GCP
 - **LLM/agent initiative** using Model Control Protocol to orchestrate tools and data
 - **Cloud-native architecture** on Google Cloud Platform
 - **Tech Stack**: GCP, Vertex AI, Cloud Run, Docker, Python
 
-### 💰 Crypto Portfolio Forecasting
+###  Crypto Portfolio Forecasting
 - **ML pipeline** with feature store and backtesting capabilities
 - **Time series forecasting** with advanced feature engineering
 - **Tech Stack**: Python, pandas, scikit-learn, Feature Store, Streamlit
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 ![Litesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=liteshperumalla&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liteshperumalla&layout=compact&theme=radical)
 
-## 🤝 Connect with me:
+##  Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/litesh-perumalla)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liteshperumalla@gmail.com)
 [Resume](https://github.com/liteshperumalla/resume/blob/main/Perumalla%20Litesh_AI%20Developer%20Intern.pdf)
