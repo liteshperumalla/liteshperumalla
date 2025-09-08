@@ -102,6 +102,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/litesh-perumalla)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liteshperumalla@gmail.com)
+[![Resume](https://github.com/liteshperumalla/resume/blob/main/Perumalla%20Litesh_AI%20Developer%20Intern.pdf)
 
 ---
 ⭐️ From [liteshperumalla](https://github.com/liteshperumalla)
